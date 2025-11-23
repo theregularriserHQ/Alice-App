@@ -1,0 +1,8 @@
+{
+  "name": "Alice",
+  "description": "An intelligent personal finance management application that records income, classifies expenses, and provides personalized savings and investment advice using AI. It offers both individual and family modes to cater to different user needs.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "common": {
+    "individual": "Individuel",
+    "family": "Famille",
+    "expense": "Dépense",
+    "income": "Revenu",
+    "description": "Description",
+    "amount": "Montant",
+    "category": "Catégorie",
+    "date": "Date",
+    "add": "Ajouter",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "submit": "Soumettre",
+    "share": "Partager",
+    "other": "Autres",
+    "choose": "Fais ton choix...",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue.",
+    "retry": "Réessayer",
+    "dueDate": "Date d'échéance",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page",
+    "of": "sur",
+    "sortBy": "Trier par :",
+    "searchPlaceholder": "Rechercher par description ou catégorie...",
+    "noTransactionsFound": "Aucune transaction ne correspond à votre recherche.",
+    "noTransactionsYet": "Aucune transaction enregistrée.",
+    "selectAll": "Tout sélectionner",
+    "deselectAll": "Tout désélectionner",
+    "selected": "sélectionné(s)",
+    "selectionMode": "Sélection",
+    "bulkDelete": "Supprimer la sélection"
+  },
+  "auth": {
+    "title": "Alice",
+    "subtitle": "Votre assistante financière personnelle et familiale.",
+    "emailPlaceholder": "Adresse e-mail",
+    "passwordPlaceholder": "Mot de passe",
+    "login": "Se connecter",
+    "signup": "Créer mon compte",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "register": "S'enregistrer",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "quickAccess": "Accès rapide (Compte Test)",
+    "errorEmailExists": "Un compte avec cet e-mail existe déjà.",
+    "errorNoUser": "Aucun utilisateur trouvé avec cet e-mail.",
+    "errorGeneric": "Une erreur est survenue. Veuillez réessayer.",
+    "managementMode": "Mode de gestion",
+    "personal": "Personnel",
+    "firstName": "Prénom",
+    "familyName": "Nom de la famille",
+    "familyComposition": "Composition de la famille :",
+    "adults": "Adultes",
+    "teens": "Ados",
+    "children": "Enfants",
+    "errorChooseMode": "Veuillez choisir un mode de gestion.",
+    "errorTestAccountNotFound": "Le compte de test n'a pas été trouvé. Veuillez recharger l'application.",
+    "errorTestAccountLogin": "Erreur lors de la connexion au compte de test."
+  },
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "transactions": "Transactions",
+    "goals": "Objectifs",
+    "budgets": "Budgets",
+    "settings": "Paramètres",
+    "shareApp": "Partager l'app",
+    "logout": "Déconnexion",
+    "menu": "Menu",
+    "shareTitle": "Découvrez Alice",
+    "shareText": "Salut ! Je gère mes finances avec Alice, une super application de budget. Je te la recommande !",
+    "shareError": "La fonction de partage n'est pas supportée sur ce navigateur."
+  },
+  "dashboard": {
+    "customize": "Personnaliser",
+    "done": "Terminé",
+    "dropHere": "Déposer ici",
+    "hide": "Masquer",
+    "show": "Afficher",
+    "move": "Déplacer",
+    "revenues": "Revenus",
+    "plannedExpenses": "Dépenses Prévues",
+    "realExpenses": "Dépenses Réelles",
+    "balance": "Solde",
+    "spendingDistribution": "Répartition des Dépenses",
+    "noDataForChart": "Aucune dépense à afficher pour ce mois.",
+    "addTransaction": "Ajouter une transaction",
+    "transactionHistory": "Historique des transactions",
+    "noTransactionsThisMonth": "Aucune transaction pour ce mois.",
+    "planned": "Prévu",
+    "confirmExpense": "Confirmer la dépense",
+    "shareTransaction": "Partager la transaction",
+    "deleteTransaction": "Supprimer la transaction",
+    "editTransaction": "Modifier la transaction",
+    "chartTypePie": "Secteurs",
+    "chartTypeBar": "Barres"
+  },
+  "transactionForm": {
+    "newTransaction": "Nouvelle Transaction",
+    "collapseForm": "Réduire le formulaire",
+    "dictate": "Dicter",
+    "stop": "Arrêter",
+    "scan": "Scanner",
+    "processing": "Traitement...",
+    "analyzing": "Analyse...",
+    "descriptionPlaceholder": "Description (ex: Courses, Salaire)",
+    "amountPlaceholder": "Montant (€)",
+    "addNewCategory": "+ Créer une nouvelle catégorie...",
+    "newCategoryName": "Nom de la nouvelle catégorie",
+    "newCategoryPlaceholder": "ex: Cadeaux",
+    "cancelAddCategory": "Annuler",
+    "addCategory": "Ajouter",
+    "suggestion": "Suggestion...",
+    "recurringExpense": "Dépense récurrente (pour la reconduction du budget)",
+    "billReminder": "Rappel de facture",
+    "addTransactionButton": "Ajouter",
+    "clarificationNeeded": "Besoin de précision :",
+    "clarificationPlaceholder": "Votre réponse...",
+    "errorMicrophone": "Impossible d'accéder au microphone. Veuillez vérifier les autorisations.",
+    "errorTranscription": "La transcription n'a produit aucun texte.",
+    "errorClarification": "L'IA n'a pas pu traiter votre clarification. Veuillez réessayer.",
+    "errorAnalysis": "L'IA n'a pas pu analyser votre demande. Veuillez réessayer.",
+    "errorReceiptAnalysis": "L'IA n'a pas pu analyser l'image du reçu. Veuillez réessayer.",
+    "errorAnalysisGeneric": "Une erreur est survenue lors de l'analyse.",
+    "clarificationDefault": "L'IA a besoin de plus d'informations. Pouvez-vous reformuler ?",
+    "errorVoiceProcessing": "Une erreur est survenue lors du traitement vocal.",
+    "confirm": "Confirmer",
+    "errorTranscriptionAi": "La transcription a échoué. L'IA n'a pas pu traiter l'audio."
+  },
+  "aiAdvisor": {
+    "title": "Les conseils d'Alice",
+    "showAdvice": "Afficher les conseils",
+    "hideAdvice": "Masquer les conseils",
+    "getAdvicePrompt": "Obtenez des conseils personnalisés sur vos finances.",
+    "getAdviceButton": "Analyser mes finances",
+    "analyzing": "Analyse en cours...",
+    "refreshAnalysis": "Rafraîchir l'analyse",
+    "errorService": "Le service IA rencontre des difficultés techniques. Veuillez réessayer un peu plus tard.",
+    "errorGeneration": "L'IA n'a pas pu générer de conseils. Veuillez réessayer."
+  },
+  "savingsGoals": {
+    "title": "Objectifs d'Épargne",
+    "availableBalance": "Solde disponible ce mois-ci :",
+    "goalNamePlaceholder": "Nom de l'objectif (ex: Vacances)",
+    "targetDate": "Date butoir",
+    "targetAmountPlaceholder": "Montant cible",
+    "noGoals": "Aucun objectif défini. Fixez-en un pour commencer à épargner !",
+    "deleteGoal": "Supprimer l'objectif",
+    "errorGoalExtraction": "L'IA n'a pas pu comprendre les détails de l'objectif. Veuillez réessayer."
+  },
+  "budgets": {
+    "title": "Budgets du mois",
+    "chooseCategory": "Choisir une catégorie",
+    "suggest": "Suggérer",
+    "noBudgets": "Aucun budget défini. Ajoutez-en un pour commencer !"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "profile": "Profil",
+    "email": "Email",
+    "saveChanges": "Enregistrer les modifications",
+    "profileUpdated": "Profil mis à jour !",
+    "customAlerts": "Alertes Personnalisées",
+    "expenseCategories": "Catégories de Dépenses",
+    "incomeCategories": "Catégories de Revenus",
+    "yourCustomCategories": "Vos catégories personnalisées",
+    "helpAndSupport": "Aide et Support",
+    "faq": "Foire Aux Questions (FAQ)",
+    "q1_title": "Comment ajouter une transaction ?",
+    "q1_answer": "Sur le tableau de bord, cliquez sur 'Ajouter une transaction', remplissez les détails et enregistrez. Vous pouvez aussi utiliser les boutons 'Dicter' ou 'Scanner' pour un ajout rapide.",
+    "q2_title": "Comment fonctionnent les budgets ?",
+    "q2_answer": "Allez dans la section 'Budgets' et définissez une limite pour une catégorie de dépense. Le suivi se mettra à jour automatiquement en fonction de vos transactions.",
+    "q3_title": "À quoi sert le chat 'Parle à Alice' ?",
+    "q3_answer": "C'est un coach financier live. Posez-lui des questions sur vos finances, demandez des conseils ou des résumés. L'IA vous répondra vocalement.",
+    "contactSupport": "Contacter le support",
+    "contactText": "Si vous avez besoin d'aide supplémentaire, n'hésitez pas à nous contacter à",
+    "langSection": "Langue / Language"
+  },
+  "customAlerts": {
+    "createAlert": "Créer une alerte",
+    "alertNamePlaceholder": "Nom de l'alerte (ex: Grandes Dépenses)",
+    "byAmount": "Par Montant (Dépense)",
+    "byCategory": "Par Catégorie",
+    "amountGreaterThan": "Montant supérieur à (€)",
+    "addAlert": "Ajouter l'Alerte",
+    "activeAlerts": "Alertes Actives",
+    "alertIfExpenseExceeds": "Alerte si une dépense dépasse {{amount}}",
+    "alertForCategory": "Alerte pour toute transaction dans la catégorie '{{category}}'",
+    "noAlerts": "Aucune alerte personnalisée active.",
+    "deleteAlert": "Supprimer l'alerte"
+  },
+  "notifications": {
+    "budgetCarryOver": "Votre budget pour le mois de {{month}} a été préparé automatiquement !",
+    "budgetLimitReachedTitle": "Limite de budget atteinte !",
+    "budgetLimitReachedBody": "Vous avez dépensé {{spent}} sur les {{budget}} prévus pour '{{category}}'.",
+    "budgetWarningTitle": "Alerte de budget",
+    "budgetWarningBody": "Vous avez dépensé {{spent}} sur {{budget}} (plus de 80%) pour '{{category}}'.",
+    "billReminderTitle": "Rappel de Facture - Alice",
+    "billReminderWeek": "Votre facture '{{description}}' est due dans une semaine.",
+    "billReminder3Days": "Rappel : Votre facture '{{description}}' est due dans 3 jours.",
+    "billReminderToday": "Votre facture '{{description}}' est due aujourd'hui.",
+    "billReminderAmount": "Montant : {{amount}}",
+    "customAlertTitle": "Alerte Personnalisée : {{name}}",
+    "customAlertCategoryBody": "Nouvelle transaction dans la catégorie '{{category}}' : {{description}} ({{amount}}).",
+    "customAlertAmountBody": "Dépense élevée détectée : '{{description}}' of {{amount}} dépasse votre seuil de {{threshold}}."
+  },
+  "liveChat": {
+    "title": "Coach Financier Live",
+    "close": "Fermer le chat",
+    "connecting": "Connexion en cours...",
+    "disconnected": "Session terminée.",
+    "welcome": "Bonjour ! Je suis Alice.",
+    "prompt": "Posez-moi une question sur vos finances ou demandez-moi un conseil.",
+    "inputPlaceholder": "Parlez ou écrivez votre question...",
+    "sendMessage": "Envoyer le message",
+    "micActive": "Microphone actif",
+    "talkToAlice": "Parle à Alice",
+    "errorApiKey": "La clé API n'est pas configurée.",
+    "errorConnection": "Erreur de connexion.",
+    "errorUnexpected": "Une erreur inattendue est survenue."
+  },
+  "carryOver": {
+    "title": "Reconduire le budget ?",
+    "prompt": "Voulez-vous reconduire les revenus et dépenses récurrentes de {{month}} pour commencer ce mois-ci ?",
+    "info": "Vous pourrez modifier les détails de chaque transaction plus tard.",
+    "confirm": "Confirmer",
+    "cancel": "Annuler"
+  },
+  "summaryModal": {
+    "incomeDetail": "Détail des Revenus",
+    "plannedExpenseDetail": "Détail des Dépenses Prévues",
+    "realExpenseDetail": "Détail des Dépenses Réelles",
+    "balanceDetail": "Détail du Solde",
+    "noTransactions": "Aucune transaction à afficher dans cette section.",
+    "close": "Fermer"
+  },
+  "welcome": {
+    "individual": "Bienvenu, {{name}}",
+    "family": "Bienvenue, Famille {{name}}"
+  },
+  "modeSelector": {
+    "title": "Comment souhaitez-vous gérer vos finances ?",
+    "individualDescription": "Pour gérer vos finances personnelles.",
+    "familyDescription": "Pour un budget partagé."
+  },
+  "upcomingBills": {
+    "title": "Factures à Payer",
+    "dueDate": "Échéance:",
+    "confirmPayment": "Confirmer le paiement",
+    "ariaConfirm": "Confirmer le paiement pour {{description}}",
+    "noBills": "Aucun rappel de facture à venir."
+  },
+  "proactiveInsight": {
+    "addTransactions": "Ajoutez des transactions pour obtenir votre première analyse !",
+    "errorInsight": "L'IA n'a pas pu générer d'observation.",
+    "errorService": "Le service d'analyse est indisponible."
+  },
+  "categoryManager": {
+    "nameTaken": "Ce nom de catégorie est déjà utilisé.",
+    "chooseIcon": "Choisir une icône"
+  },
+  "chart": {
+    "tooltipAmount": "Montant : "
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Bienvenue sur Alice",
+      "content": "Votre assistante financière intelligente. Laissez-nous vous présenter les nouvelles fonctionnalités conçues pour vous simplifier la vie."
+    },
+    "addTransaction": {
+      "title": "Saisie Intelligente",
+      "content": "Saisissez vos dépenses manuellement, ou essayez nos nouvelles fonctions de <b>Dictée Vocale</b> et de <b>Scan de Reçus</b> pour un suivi instantané."
+    },
+    "aiInsights": {
+      "title": "Observations Proactives",
+      "content": "Alice veille sur vous. Ce module vous offre des observations et alertes basées sur vos habitudes de dépenses en temps réel."
+    },
+    "aiAdvisor": {
+      "title": "Analyse Approfondie",
+      "content": "Besoin d'une stratégie ? Cliquez ici pour obtenir des conseils détaillés et personnalisés pour optimiser votre budget et votre épargne."
+    },
+    "customize": {
+      "title": "Votre Tableau de Bord",
+      "content": "C'est votre espace. Cliquez sur 'Personnaliser' pour réorganiser les widgets selon vos priorités par simple glisser-déposer."
+    },
+    "talkToAlice": {
+      "title": "Coach Financier Live",
+      "content": "Discutez en direct avec Alice. Posez vos questions et obtenez des réponses vocales immédiates sur votre situation financière."
+    },
+    "finish": {
+      "title": "C'est parti !",
+      "content": "Alice est prête à vous aider à maîtriser vos finances. Bonne découverte !",
+      "button": "Commencer l'expérience"
+    }
+  },
+  "filters": {
+    "title": "Filtres",
+    "status": "Statut",
+    "all": "Tout",
+    "planned": "Prévu",
+    "real": "Réel",
+    "dateRange": "Période",
+    "from": "Du",
+    "to": "Au",
+    "clear": "Effacer les filtres"
+  }
+}
